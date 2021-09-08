@@ -1,0 +1,6 @@
+framework module Pods_SQliteQuanLyDanhSach {
+  umbrella header "Pods-SQliteQuanLyDanhSach-umbrella.h"
+
+  export *
+  module * { export * }
+}
